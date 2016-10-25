@@ -1,6 +1,10 @@
 CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.0.3-r26
+
+* [#LPS-68941](https://issues.liferay.com/browse/LPS-68941): Backport [#10448](https://dev.ckeditor.com/ticket/10448) Text has no line break in CKEditor content edition when using Firefox
+
 ## CKEditor 4.0.3-r25
 
 * [#LPS-59959](https://issues.liferay.com/browse/LPS-59959): SCAYT button and functionality is inactive and throws js errors
